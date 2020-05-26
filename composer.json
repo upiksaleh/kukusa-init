@@ -1,0 +1,11 @@
+{
+    "name": "kukusa/initialize",
+    "description": "Kukusa framework",
+    "type": "kukusa",
+    "authors": [
+        {
+            "name": "Upik Saleh",
+            "email": "upik@codeup.id"
+        }
+    ]
+}
